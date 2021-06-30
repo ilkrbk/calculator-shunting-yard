@@ -1,0 +1,16 @@
+/Volumes/Ultra Touch/study/KPI-study/1_class/OP2/lab/structure/structure/obj/Debug/structure.csprojAssemblyReference.cache
+/Volumes/Ultra Touch/study/KPI-study/1_class/OP2/lab/structure/structure/obj/Debug/structure.csproj.CoreCompileInputs.cache
+/Volumes/Ultra Touch/study/KPI-study/1_class/OP2/lab/structure/structure/obj/Debug/structure.exe
+/Volumes/Ultra Touch/study/KPI-study/1_class/OP2/lab/structure/structure/obj/Debug/structure.pdb
+/Users/ilkrbk/Downloads/structure/structure/bin/Debug/structure.exe
+/Users/ilkrbk/Downloads/structure/structure/bin/Debug/structure.pdb
+/Users/ilkrbk/Downloads/structure/structure/obj/Debug/structure.csprojAssemblyReference.cache
+/Users/ilkrbk/Downloads/structure/structure/obj/Debug/structure.csproj.CoreCompileInputs.cache
+/Users/ilkrbk/Downloads/structure/structure/obj/Debug/structure.exe
+/Users/ilkrbk/Downloads/structure/structure/obj/Debug/structure.pdb
+/Users/ilkrbk/Documents/KPI-study/1_class/OP2/lab/structure/structure/bin/Debug/structure.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/OP2/lab/structure/structure/bin/Debug/structure.pdb
+/Users/ilkrbk/Documents/KPI-study/1_class/OP2/lab/structure/structure/obj/Debug/structure.csprojAssemblyReference.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/OP2/lab/structure/structure/obj/Debug/structure.csproj.CoreCompileInputs.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/OP2/lab/structure/structure/obj/Debug/structure.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/OP2/lab/structure/structure/obj/Debug/structure.pdb
